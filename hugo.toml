@@ -1,0 +1,67 @@
+baseURL = "https://wonder.sapkotarajat.com.np/"
+languageCode = "en-us"
+title = "Wonder Archive"
+theme = "PaperMod"
+paginate = 10
+buildFuture = true
+googleAnalytics = "G-GT75JDWDPV"
+
+[params]
+  env = "production"
+  description = "Absurd, brutal and surprising stories from ancient history — the long reads behind the Wonder Archive Shorts."
+  author = "Wonder Archive"
+  defaultTheme = "dark"
+  disableThemeToggle = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = false
+  comments = false
+  googleAdsenseId = "ca-pub-7566579332653976"
+
+  [params.footer]
+    hideCopyright = false
+
+  [params.homeInfoParams]
+    Title = "Wonder Archive"
+    Content = "The absurd laws, brutal punishments and strange inventions of the ancient world — the full stories behind our YouTube Shorts."
+
+  [[params.socialIcons]]
+    name = "youtube"
+    url = "https://www.youtube.com/@WonderArchive-p2b"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 2
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 3
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
