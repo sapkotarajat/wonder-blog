@@ -208,4 +208,4 @@ The next time you hear "Roman soldier," remember the intricate mosaic of culture
 
 ---
 
-*This article is part of our history series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our history series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

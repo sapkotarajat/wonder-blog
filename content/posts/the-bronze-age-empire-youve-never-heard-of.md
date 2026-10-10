@@ -244,4 +244,4 @@ The Kura-Araxes culture urges us to look beyond the well-trodden paths of ancien
 
 ---
 
-*This article is part of our history series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our history series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

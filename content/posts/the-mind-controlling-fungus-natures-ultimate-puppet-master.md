@@ -172,4 +172,4 @@ Next time you spot a dead ant clinging to a leaf, remember: you’re looking at 
 
 ---
 
-*This article is part of our nature series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our nature series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

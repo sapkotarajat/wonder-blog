@@ -83,4 +83,4 @@ Next time you hear about a modern earthquake detection system, remember that the
 
 ---
 
-*This article is part of our history series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our history series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

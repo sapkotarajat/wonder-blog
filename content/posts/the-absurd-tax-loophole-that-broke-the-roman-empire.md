@@ -70,4 +70,4 @@ The ultimate lesson of the Roman Empire is clear: a society that does not requir
 
 ---
 
-*This article is part of our history series. Subscribe to our [YouTube channel](https://youtube.com/@sapkotarajatdev) for video versions of our content.*
+*This article is part of our history series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

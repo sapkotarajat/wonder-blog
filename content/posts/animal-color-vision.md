@@ -229,4 +229,4 @@ Next time you look at a vibrant flower, a soaring bird, or even your own pet, pa
 
 ---
 
-*This article is part of our nature series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our nature series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

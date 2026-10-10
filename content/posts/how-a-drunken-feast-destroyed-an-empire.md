@@ -72,4 +72,4 @@ The story of the fall of Babylon is a timeless reminder: the currents of change 
 
 ---
 
-*This article is part of our history series. Subscribe to our [YouTube channel](https://youtube.com/@sapkotarajatdev) for video versions of our content.*
+*This article is part of our history series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

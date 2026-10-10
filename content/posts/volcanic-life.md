@@ -250,4 +250,4 @@ Volcanoes may roar with fire, but their aftershocks whisper **new beginnings**. 
 
 ---
 
-*This article is part of our nature series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our nature series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

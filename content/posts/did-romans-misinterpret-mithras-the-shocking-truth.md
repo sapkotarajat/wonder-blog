@@ -198,4 +198,4 @@ As we reassess Mithraic worship, we are also equipped with a vital lesson for na
 
 ---
 
-*This article is part of our history series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our history series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

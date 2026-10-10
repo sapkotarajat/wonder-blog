@@ -191,4 +191,4 @@ So next time you slip into azure surf, keep an eye on the water’s surface, res
 
 ---
 
-*This article is part of our nature series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our nature series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

@@ -181,4 +181,4 @@ The "Curse of King Tut's Tomb" stands as a powerful testament not to ancient mag
 
 ---
 
-*This article is part of our history series. Subscribe to our [YouTube channel](https://youtube.com/@rajatsapkota) for video versions of our content.*
+*This article is part of our history series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*

@@ -80,4 +80,4 @@ By acknowledging this dark chapter, we gain a more honest and grounded understan
 
 ---
 
-*This article is part of our history series. Subscribe to our [YouTube channel](https://youtube.com/@sapkotarajatdev) for video versions of our content.*
+*This article is part of our history series. Subscribe to [Wonder Archive on YouTube](https://www.youtube.com/@WonderArchive-p2b) for video versions of our content.*
