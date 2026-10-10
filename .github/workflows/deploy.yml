@@ -35,7 +35,7 @@ jobs:
           fetch-depth: 0
 
       - name: Build
-        run: hugo --minify --buildFuture --baseURL "https://blog.sapkotarajat.com.np/"
+        run: hugo --minify --buildFuture --baseURL "https://wonder.sapkotarajat.com.np/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
